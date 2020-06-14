@@ -20,7 +20,7 @@ object Dep {
         const val androidJunit4Ktx = "androidx.test.ext:junit-ktx:1.1.1"
         const val espressoCore = "androidx.test.espresso:espresso-core:3.2.0"
         const val coroutinesTest = "org.jetbrains.kotlinx:kotlinx-coroutines-test:${Kotlin.Coroutines.version}"
-        const val kotlinTestAssertions = "io.kotlintest:kotlintest-assertions:3.1.10"
+        const val kotlinTestAssertions = "io.kotlintest:kotlintest-assertions:3.4.2"
         const val testingKtx = "androidx.navigation:navigation-testing:2.3.0-alpha06"
 
         object MockK {
