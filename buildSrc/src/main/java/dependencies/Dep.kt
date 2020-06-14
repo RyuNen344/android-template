@@ -94,7 +94,7 @@ object Dep {
 
     object Groupie {
         private const val version = "2.8.0"
-        const val groupie = "com.xwray:groupie:$version"
+        const val groupie = "com.xwray:groupie:2.8.0"
         const val viewbinding = "com.xwray:groupie-viewbinding:$version"
     }
 
