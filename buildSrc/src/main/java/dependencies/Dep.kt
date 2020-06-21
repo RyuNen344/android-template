@@ -10,7 +10,7 @@ object Dep {
         }
 
         const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.72"
-        const val kotlinSerialization = "org.jetbrains.kotlin:kotlin-serialization:${Kotlin.version}"
+        const val kotlinSerialization = "org.jetbrains.kotlin:kotlin-serialization:1.3.72"
 
         const val releaseHub = "com.releaseshub:releases-hub-gradle-plugin:1.6.0"
     }
