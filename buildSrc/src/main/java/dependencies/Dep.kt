@@ -9,7 +9,7 @@ object Dep {
             const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0-alpha06"
         }
 
-        const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Kotlin.version}"
+        const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.72"
         const val kotlinSerialization = "org.jetbrains.kotlin:kotlin-serialization:${Kotlin.version}"
 
         const val releaseHub = "com.releaseshub:releases-hub-gradle-plugin:1.6.0"
