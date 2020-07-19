@@ -75,7 +75,7 @@ object Dep {
         const val android = "org.koin:koin-android:$version"
         const val scope = "org.koin:koin-androidx-scope:2.1.6"
         const val viewmodel = "org.koin:koin-androidx-viewmodel:2.1.6"
-        const val fragment = "org.koin:koin-androidx-fragment:$version"
+        const val fragment = "org.koin:koin-androidx-fragment:2.1.6"
     }
 
     object Ktor {
