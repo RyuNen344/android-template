@@ -6,7 +6,7 @@ object Dep {
 
         object Android {
             const val android = "com.android.tools.build:gradle:4.0.0"
-            const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0-alpha06"
+            const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0"
         }
 
         const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Kotlin.version}"
