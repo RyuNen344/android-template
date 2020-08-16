@@ -46,7 +46,7 @@ object Dep {
 
         object Navigation {
             const val runtimeKtx = "androidx.navigation:navigation-runtime-ktx:2.3.0-alpha06"
-            const val fragmentKtx = "androidx.navigation:navigation-fragment-ktx:2.3.0-alpha06"
+            const val fragmentKtx = "androidx.navigation:navigation-fragment-ktx:2.3.0"
             const val uiKtx = "androidx.navigation:navigation-ui-ktx:2.3.0-alpha06"
         }
     }
