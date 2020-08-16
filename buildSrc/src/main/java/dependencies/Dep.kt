@@ -21,7 +21,7 @@ object Dep {
         const val espressoCore = "androidx.test.espresso:espresso-core:3.2.0"
         const val coroutinesTest = "org.jetbrains.kotlinx:kotlinx-coroutines-test:${Kotlin.Coroutines.version}"
         const val kotlinTestAssertions = "io.kotlintest:kotlintest-assertions:3.4.2"
-        const val testingKtx = "androidx.navigation:navigation-testing:2.3.0-alpha06"
+        const val testingKtx = "androidx.navigation:navigation-testing:2.3.0"
 
         object MockK {
             const val jvm = "io.mockk:mockk:1.10.0"
