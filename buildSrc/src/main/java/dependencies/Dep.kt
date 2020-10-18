@@ -33,7 +33,7 @@ object Dep {
         const val coreKtx = "androidx.core:core-ktx:1.3.0"
         const val appCompat = "androidx.appcompat:appcompat:1.2.0-beta01"
         const val constraintLayout = "androidx.constraintlayout:constraintlayout:2.0.0-beta4"
-        const val emoji = "androidx.emoji:emoji-appcompat:1.0.0"
+        const val emoji = "androidx.emoji:emoji-appcompat:1.1.0"
         const val design = "com.google.android.material:material:1.2.0-alpha06"
         const val fragmentKtx = "androidx.fragment:fragment-ktx:1.3.0-alpha04"
         const val recyclerView = "androidx.recyclerview:recyclerview:1.1.0"
