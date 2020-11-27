@@ -6,7 +6,7 @@ object Dep {
 
         object Android {
             const val android = "com.android.tools.build:gradle:4.0.0"
-            const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0-alpha06"
+            const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0"
         }
 
         const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Kotlin.version}"
@@ -21,7 +21,7 @@ object Dep {
         const val espressoCore = "androidx.test.espresso:espresso-core:3.2.0"
         const val coroutinesTest = "org.jetbrains.kotlinx:kotlinx-coroutines-test:${Kotlin.Coroutines.version}"
         const val kotlinTestAssertions = "io.kotlintest:kotlintest-assertions:3.4.2"
-        const val testingKtx = "androidx.navigation:navigation-testing:2.3.0-alpha06"
+        const val testingKtx = "androidx.navigation:navigation-testing:2.3.0"
 
         object MockK {
             const val jvm = "io.mockk:mockk:1.10.0"
@@ -45,9 +45,9 @@ object Dep {
         }
 
         object Navigation {
-            const val runtimeKtx = "androidx.navigation:navigation-runtime-ktx:2.3.0-alpha06"
-            const val fragmentKtx = "androidx.navigation:navigation-fragment-ktx:2.3.0-alpha06"
-            const val uiKtx = "androidx.navigation:navigation-ui-ktx:2.3.0-alpha06"
+            const val runtimeKtx = "androidx.navigation:navigation-runtime-ktx:2.3.0"
+            const val fragmentKtx = "androidx.navigation:navigation-fragment-ktx:2.3.0"
+            const val uiKtx = "androidx.navigation:navigation-ui-ktx:2.3.0"
         }
     }
 
