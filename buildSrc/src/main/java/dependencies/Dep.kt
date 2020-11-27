@@ -71,11 +71,11 @@ object Dep {
     }
 
     object Koin {
-        private const val version = "2.1.5"
-        const val android = "org.koin:koin-android:$version"
-        const val scope = "org.koin:koin-androidx-scope:$version"
-        const val viewmodel = "org.koin:koin-androidx-viewmodel:$version"
-        const val fragment = "org.koin:koin-androidx-fragment:$version"
+        private const val version = "2.1.6"
+        const val android = "org.koin:koin-android:2.1.6"
+        const val scope = "org.koin:koin-androidx-scope:2.1.6"
+        const val viewmodel = "org.koin:koin-androidx-viewmodel:2.1.6"
+        const val fragment = "org.koin:koin-androidx-fragment:2.1.6"
     }
 
     object Ktor {
