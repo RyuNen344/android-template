@@ -9,8 +9,8 @@ object Dep {
             const val safeArgs = "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.0-alpha06"
         }
 
-        const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.10"
-        const val kotlinSerialization = "org.jetbrains.kotlin:kotlin-serialization:1.4.10"
+        const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Kotlin.version}"
+        const val kotlinSerialization = "org.jetbrains.kotlin:kotlin-serialization:${Kotlin.version}"
 
         const val releaseHub = "com.releaseshub:releases-hub-gradle-plugin:1.6.0"
     }
@@ -54,8 +54,8 @@ object Dep {
     object Kotlin {
         const val version = "1.4.10"
 
-        const val stdlibCommon = "org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10"
-        const val stdlibJvm = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10"
+        const val stdlibCommon = "org.jetbrains.kotlin:kotlin-stdlib-common:$version"
+        const val stdlibJvm = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$version"
 
         object Coroutines {
             const val version = "1.3.9"
